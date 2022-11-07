@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Java_Interview</title>
+    <link href="/2022/10/31/Java-Interview/"/>
+    <url>/2022/10/31/Java-Interview/</url>
+    
+    <content type="html"><![CDATA[<h2 id="自我介绍">自我介绍</h2><p>我觉得一个好的自我个绍应该包含这几点要素:</p><ol type="1"><li><p>用简单的话说清楚自己主要的技术栈于擅长的领域;</p></li><li><p>把重点放在自己在行的地方以及自己的优势之处;</p></li><li><p>重点突出自己的能力比如自己的定位的bug的能力特别厉害;</p></li></ol><blockquote><p>校招:面试官，你好！我叫代晨迪。大学期间我主要利用课外时间学习了Java以及Spring、Mybatis等框架。在校期间我参与过一个考试系统的开发，这个系统的主要用⽤了Spring、MyBatis和shiro这三种框架。我在其中主要担任后端开发，主要负责了权限管理功能模块的搭建。另外，我在大学的时候参加过⼀次软件编程大赛，我和我的团队做的在线订餐系统成功获得了第⼆名的成绩。我还利⽤自己的业余时间写了⼀个简单的RPC框架，这个框架⽤到了Netty进行网络通信，⽬前我已经将这个项⽬开源，在Github上收获了2k的Star！说到业余爱好的话，我⽐较喜欢通过博客整理分享自己所学知识，现在已经是多个博客平台的认证作者。生活中我是⼀个比较积极乐观的人，⼀般会通过运动打球的方式来放松。我⼀直都非常想加入贵公司，我觉得贵公司的文化和技术氛围我都非常喜欢，期待能与你共事！</p></blockquote><h2 id="项目介绍">项目介绍</h2><p>如果有项⽬的话，技术⾯试第⼀步，⾯试官⼀般都是让你⾃⼰介绍⼀下你的项⽬。你可以从下⾯⼏个⽅向来考虑：</p><ol type="1"><li>对项⽬整体设计的⼀个感受（⾯试官可能会让你画系统的架构图）</li><li>在这个项⽬中你负责了什么、做了什么、担任了什么角色</li><li>从这个项⽬中你学会了那些东西，使用到了那些技术，学会了那些新技术的使用</li><li>另外项目描述中，最好可以体现自己的综合素质，比如你是如何协调项⽬组成员协同开发的，或者在遇到某⼀个棘⼿的问题的时候，你是如何解决的？⼜或者说你在这个项目用了什么技术？实现了什么功能？比如：用redis做缓存提高访问速度和并发量、使用消息队列削峰和降流等等。</li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Diary</tag>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo-Fluid</title>
+    <link href="/2022/10/28/Hexo-Fluid/"/>
+    <url>/2022/10/28/Hexo-Fluid/</url>
+    
+    <content type="html"><![CDATA[<p>测试图片</p><center><img src="/2022/10/28/Hexo-Fluid/mybatis-logo.jpg" class="" title="This is a image"></center><p>(Java面试/mybatis-logo.jpg)不是正确的加载图片格式</p><p>测试图片二</p><center><img src="/2022/10/28/Hexo-Fluid/mybatis-logo.jpg" class=""></center><center>图1 Mybatis-logo</center><p><span class="math display">\[a=b+c\]</span></p><p><span class="math inline">\(\frac{1}{2}\)</span>，<spanclass="math inline">\(\frac{4}{5}\)</span> <span class="math display">\[a_1^4+a_2^2\]</span></p><p><span class="math display">\[P(x) =\frac{1}{ {\sqrt{2\pi} \sigma} }\exp\{-\frac{ { { {(x -\mu )}^2} }} { {2{\sigma ^2} } }\}\]</span></p><p><span class="math display">\[E=mc^2\]</span></p><p><code>parameter</code></p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-keyword">import</span> sys<br><span class="hljs-title function_">print</span><span class="hljs-params">(sys.version)</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>Diary</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Diary</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/10/22/hello-world/"/>
+    <url>/2022/10/22/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Diary</tag>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
